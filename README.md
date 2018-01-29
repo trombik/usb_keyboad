@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/trombik/usb_keyboad.svg?branch=master)](https://travis-ci.org/trombik/usb_keyboad)
+
 # USB Keyboard
 
 A USB keyboard with `Enter` key.
